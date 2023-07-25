@@ -11,4 +11,8 @@
     width: 95vw;
     max-width: 75em;
   }
+  
+  .search-wrapper button {
+    padding: 1rem 1.35rem;
+  }
 }
