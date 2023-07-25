@@ -12,7 +12,12 @@
     max-width: 75em;
   }
   
-  .search-wrapper button {
-    padding: 1rem 1.35rem;
-  }
+    .search-wrapper {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .search-wrapper input {
+      text-align: center;
+    }
 }
