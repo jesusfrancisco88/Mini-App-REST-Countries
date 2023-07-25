@@ -114,3 +114,8 @@ body {
 span {
 font-weight: 600;
 }
+
+.error-msg {
+  font-size: 2rem;
+  color: red;
+}
